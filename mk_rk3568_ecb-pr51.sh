@@ -84,7 +84,7 @@ DOCKERD_PATCH="${PWD}/files/dockerd.patch"
 
 # 20200416 add - ECB-PR51 specific bootloader
 FIRMWARE_TXZ="${PWD}/files/firmware_armbian.tar.xz"
-BOOTFILES_HOME="${PWD}/files/bootfiles/rockchip/rk3568/ecb-pr51"
+BOOTFILES_HOME="${PWD}/files/rk3568/ecb-pr51"
 GET_RANDOM_MAC="${PWD}/files/get_random_mac.sh"
 BOOTLOADER_IMG="${PWD}/files/rk3568/ecb-pr51/bootloader.bin"
 
