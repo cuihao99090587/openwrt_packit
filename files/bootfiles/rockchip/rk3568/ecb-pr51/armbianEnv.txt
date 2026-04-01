@@ -1,8 +1,8 @@
 verbosity=7
 bootlogo=true
-fdtfile=rockchip/rk3568-fastrhino-ecb-pr51.dtb
+fdtfile=rockchip/rk3568-evb1-v10.dtb
 rootdev=/dev/mmcblk0p2
-rootfstype=btrfs 
+rootfstype=btrfs
 rootflags=compress=zstd:6
 console=serial
 consoleargs=console=ttyS2,1500000
